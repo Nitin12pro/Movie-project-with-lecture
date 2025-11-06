@@ -1,13 +1,11 @@
- Movie-project-with-lecture
+⦁	🎬 Movie Data Analysis Project
 
- 
-🎬 Movie Data Analysis Project
-📖 Overview
+1📖 overview
 
 This project analyzes a movie dataset using Python.
 It helps you understand movie data such as titles, genres, ratings, and popularity.
 
-🧰 Tools Used
+2🧰 Tools Used
 
 Python
 
@@ -17,7 +15,7 @@ NumPy – for numerical operations
 
 Colab Notebook – to run and visualize code
 
-📂 Dataset
+3📂 Dataset
 
 File used: TMDB_movie_dataset_v11.csv
 It contains details like:
@@ -32,7 +30,7 @@ Genre
 
 Popularity
 
-⚙️ Steps in the Project
+4⚙️ Steps in the Project
 
 Import required libraries (pandas, numpy)
 
@@ -48,7 +46,7 @@ Checking top-rated movies
 
 Finding most popular genres
 
-▶️ How to Run
+5▶️ How to Run
 
 Open the notebook file (.ipynb) in Jupyter Notebookr or Google Colab what you want.
 
@@ -56,7 +54,7 @@ Upload the dataset file (TMDB_movie_dataset_v11.csv).
 
 Run the cells one by one to see the output and analysis results.
 
-📊 Example Outputs
+6📊 Example Outputs
 
 Top 10 movies by rating
 
@@ -64,7 +62,7 @@ Most common movie genres
 
 Average rating and popularity
 
-💡 Ideas
+7💡 Ideas
 
 Add visualization using Matplotlib or Seaborn
 
